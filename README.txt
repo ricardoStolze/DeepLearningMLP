@@ -1,6 +1,7 @@
-To run the python script open a terminal and run the following command:
-- /path/to/python3 /path/to/mds_exercise3.py
+//To run the python script open a terminal and run the following command:
+//- /path/to/python3 /path/to/mds_exercise3.py
 
+Only data for short version uploaded:
 Since this script takes much time to read the .csv files you can also run the folling command:
 - /path/to/python3 /path/to/mds_exercise3_fast.py
 
